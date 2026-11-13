@@ -1,5 +1,7 @@
 # stock-trade-skill
 
+[![tests](https://github.com/devfn93/stock-trade-skill/actions/workflows/tests.yml/badge.svg)](https://github.com/devfn93/stock-trade-skill/actions/workflows/tests.yml)
+
 [العربية](#بالعربي) · [English](#english)
 
 Eleven Claude skills for **US stocks**: copy an investor's 13F portfolio, watch
