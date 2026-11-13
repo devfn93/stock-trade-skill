@@ -149,6 +149,13 @@ trade, as amount ranges. **Free quotes are delayed.** Check against your broker.
 
 **Taxes**: `/trader-tax` is arithmetic on US rules, not tax advice.
 
+## Related · مكتبات مرتبطة
+
+- [crypto-trade-skill](https://github.com/devfn93/crypto-trade-skill) — Crypto futures and spot · الكربتو
+- [crypto-stock-trade](https://github.com/devfn93/crypto-stock-trade) — Both in one pack · الدمج
+
+If this helps you, a star on GitHub helps others find it. See [CONTRIBUTING.md](CONTRIBUTING.md) to report a bug or suggest a feature.
+
 ## Author
 
 **Esraa Fadhil Naif** · [github.com/devfn93](https://github.com/devfn93)
