@@ -1,0 +1,4 @@
+trader/
+crypto/
+__pycache__/
+*.pyc

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "stock-trade-skill",
+  "description": "Eleven Claude skills for US stocks: copy a 13F, watch news and Congress trades, read earnings, screen, size, risk-check, tickets, tax lots, alerts, rebalancing. Claude never places an order.",
+  "owner": {
+    "name": "Esraa Fadhil Naif",
+    "url": "https://github.com/devfn93"
+  },
+  "plugins": [
+    {
+      "name": "stock-trade-skill",
+      "description": "Eleven Claude skills for US stocks: copy a 13F, watch news and Congress trades, read earnings, screen, size, risk-check, tickets, tax lots, alerts, rebalancing. Claude never places an order.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/devfn93/stock-trade-skill"
+    }
+  ]
+}
