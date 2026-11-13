@@ -10,7 +10,7 @@ size every position to your budget, check every order against your limits,
 track tax lots, ring price alerts and rebalance.
 **Claude never places an order: you do, in your own broker.**
 
-Free, MIT, no signup, no API keys. Plain Python 3.8+ (standard library only)
+Free, MIT, no signup, no API keys. Plain Python 3.9+ (standard library only)
 reading public data: SEC EDGAR, the House Clerk, news feeds.
 
 ---
